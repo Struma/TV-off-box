@@ -1,4 +1,5 @@
 # TV-off-box
+![alt Main_box](imgs/Main_box.jpg)
 
 The fancy new smart tv that I got for christmas just won't stay off. Not to mention that the US and foreign intelligence agencies are longing to use smart tvs and other IOT devices that are otherwise sitting around connected to the internet.
 
@@ -12,3 +13,6 @@ I have no evidence that I am being targeted, but I know that my tv is a more pow
 
 3. Both the on button and the IR transiever must line up in the code flow so that both interfaces can be used. For example, I should be able to turn the tv on with the remote, and then turn it off with the button or vice versa.
 
+## IR Transmitter
+It is an IR LED on a heavy metal weight. It looks like a little projector!
+![alt projector](imgs/optIR_projector.JPG)
